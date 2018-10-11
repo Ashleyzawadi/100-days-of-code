@@ -3,11 +3,11 @@
 ### Day 0: October 11, 2018 
 
 
-**Today's Progress**: Basic css curriculum on Freecode Camp
+**Today's Progress**: Basic Frontendcurriculum on Freecode Camp. I want to start a project though practise these skills.
 
-**Thoughts:**I had forgot quite a few things. Started project Ivory to practise basic css.
+**Thoughts:**I had forgot quite a few things. 
 
-**Link to work:** [Ivory App](http://www.example.com)
+<!-- **Link to work:** [Ivory App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
